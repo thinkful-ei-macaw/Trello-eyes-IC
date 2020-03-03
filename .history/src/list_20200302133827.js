@@ -1,7 +1,5 @@
 import store from './store';
-import Card from './card';
 
-export default 
 function List(props) {
 
 return (
@@ -14,5 +12,3 @@ return (
         </section>
         )};)
 }
-
-
